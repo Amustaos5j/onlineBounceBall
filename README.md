@@ -4,4 +4,4 @@
 
 Node.js 필요.
 
-ws,mime-type 모듈 필요
+ws,mime-types 모듈 필요
