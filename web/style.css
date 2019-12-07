@@ -1,0 +1,15 @@
+body{
+	margin:0px;
+	padding:0px;
+	overflow-x:hidden;
+	overflow-y:hidden;
+	font-family:webFont;
+}
+canvas{
+	margin:0px;
+	padding:0px;
+}
+@font-face{
+	font-family:'webFont';
+	src:url(/font/qarmic.ttf);
+}
